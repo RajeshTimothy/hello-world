@@ -1,2 +1,5 @@
 # hello-world
-New Repository Name
+
+Hi Humans
+
+This RajeshTimothy here, I like to have chicken briyani and tandoori.
